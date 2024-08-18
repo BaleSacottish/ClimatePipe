@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ClimatePipe</string>
+    <!-- <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">sk.eyJ1IjoiYmFsZXBvb255YXBhdCIsImEiOiJjbHp5dnZ0azYxNzM1MmpzYnBranNyYjJ6In0.B3piJxlNts8nqKgFhzsbVQ</string> -->
+
+    <string name="mapbox_access_token">sk.eyJ1IjoiYmFsZXBvb255YXBhdCIsImEiOiJjbHp5dnZ0azYxNzM1MmpzYnBranNyYjJ6In0.B3piJxlNts8nqKgFhzsbVQ</string>
+
 </resources>
